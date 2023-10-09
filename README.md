@@ -11,3 +11,5 @@ My proficiency spans a range of technologies including HTML, CSS, JavaScript, an
 But web development is more than just code to me. It's about crafting seamless user journeys, optimizing performance, and staying up-to-date with the ever-evolving tech landscape. With a commitment to continuous learning, I embrace new tools and techniques to deliver modern and cutting-edge web experiences.
 
 I invite you to explore my portfolio and discover the projects that have shaped my career. Whether you're a fellow developer seeking inspiration, a business looking to enhance its online presence, or anyone intrigued by the world of coding, I'm thrilled to connect with you. Let's embark on a digital journey where creativity knows no bounds. Thank you for visiting!
+
+Your site is live at https://sumitkumargiri.github.io/portfolio_web/
